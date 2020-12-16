@@ -1,2 +1,2 @@
-# Mejor_King
-![](https://gyazo.com/Mejor.png)
+# Mejor_Guild
+![]images/filenameMejor.png)
