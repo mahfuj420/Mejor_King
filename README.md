@@ -1,2 +1,2 @@
 # Mejor_King
-![20201216_191428.jpg](images/screenshot.png)
+![Screenshot_20201216-193244_Termux.jpg](images/screenshot.png)
