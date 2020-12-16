@@ -1,2 +1,2 @@
 # Mejor_King
-![Screenshot_20201216-193244_Termux.jpg](images/screenshot.png)
+![20201216_191428.jpg](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png)
