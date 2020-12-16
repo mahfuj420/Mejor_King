@@ -25,4 +25,34 @@ $link: https://www.facebook.com/mdbillalhossain.rabby.12
 $ Mejor Team: https://www.facebook.com/Sanju01265/
 
 
+# Amar Tools Ta Run Korte Nicher Command Gula Follow Korun...!!
+
+$ pkg update && pkg upgrade -y
+<br>
+$ pkg install python
+<br/>
+$ pkg install python2
+<br/>
+$ pkg install git
+<br/>
+$ git clone https://github.com/mahfuj420/Mejor_King
+<br/>
+$ pip2 install requests
+<br/>
+$ pip2 install mechanize
+<br/>
+$ ls
+<br/>
+$ cd Mejor_King
+<br/>
+$ python2 King_Of_Mejor
+<br/>
+.........................
+<br/>
+Tool UserName : Mejor
+<br/>
+Tool Password : Guild
+<br/>
+.........................
+
 
