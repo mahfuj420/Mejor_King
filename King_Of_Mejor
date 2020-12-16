@@ -175,8 +175,8 @@ print  """
 \033[1;94m                           |__/			                                                                    
            
  """
-😬CorrectUsername💉 = "Mejor"
-🤫CorrectPassword💉 = "Guild"
+CorrectUsername = "Mejor"
+CorrectPassword = "Guild"
 
 loop = 'true'
 while (loop == 'true'):
