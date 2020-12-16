@@ -14,17 +14,12 @@ $ Ric Tic:       https://www.facebook.com/ric.tick.75
 
 # Command Macker
 # Tasnim Jahan Alifa
+$link: 🤫🤫🤫🤫🤫🤫
 # Nurul Amin Mahfuj
+$link:  https://www.facebook.com/Kingz.Tor.Abbu
 # MD Billal Hossain Rabby
-
-# Command Macker👇
-<br/>
-$ Tasnim Jahan Alifa:        🤫🤫🤫🤫🤫🤫
-<br/>
-$ Nurul Amin Mahfuj:         https://www.facebook.com/Kingz.Tor.Abbu
-<br/>
-$ Md Billal Hossain Rabby:   https://www.facebook.com/mdbillalhossain.rabby.12
-
+$link: https://www.facebook.com/mdbillalhossain.rabby.12
+  
 # Gaming ＭＥＪＯＲツᴛᴇᴀᴍ
 <br/>
 $ Mejor Team: https://www.facebook.com/Sanju01265/
