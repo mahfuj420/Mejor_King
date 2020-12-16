@@ -13,9 +13,9 @@ $ Taohid Shurjo: https://www.facebook.com/profile.php?id=100021331363784
 $ Ric Tic:       https://www.facebook.com/ric.tick.75
 ![](images/Mejor.png)
 # Command Macker
-# Tasnim_Jahan_Alifa
-# Nurul_Amin_Mahfuj
-# MD_Billal_Hossain_Rabby
+# Tasnim Jahan Alifa
+# Nurul Amin Mahfuj
+# MD Billal Hossain Rabby
 
 # Command Macker👇
 <br/>
