@@ -1,2 +1,2 @@
 # Mejor_Guild
-![](iages/Mejor.png)
+![](images/Mejor.png)
