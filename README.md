@@ -1,2 +1,2 @@
 # Mejor_Guild
-![](iages/filenameMejor.png=200x400)
+![](iages/filenameMejor.png=250x400)
